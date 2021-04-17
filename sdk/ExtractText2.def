@@ -1,0 +1,26 @@
+	LIBRARY
+	EXPORTS
+ExtractChmTextA
+ExtractDocumentTextA
+ExtractFileAnsiTextA
+ExtractFileUnicTextW
+ExtractOffice2003TextA
+ExtractOffice2007DocxTextA
+ExtractOffice2007PptxTextA
+ExtractOffice2007TextA
+ExtractOffice2007XlsxTextA
+ExtractPdfTextA
+ExtractRarFileDataA
+ExtractRtfTextA
+ExtractXmlTextW
+ExtractZipFileDataA
+PathNormalizeBackslashA
+PathNormalizeBackslashW
+;_DllRegisterServer
+;_DllUnregisterServer
+;_ExtractOffice2007XlsxTextA
+;_ExtractPdfTextA
+_ExtractXmlTextA
+;_ExtractXmlTextW
+pdfGet_text_buf
+rtfGet_text_buf
